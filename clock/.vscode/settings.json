@@ -1,0 +1,9 @@
+{
+    "nrf-connect.topdir": "${nrf-connect.sdk:1.9.1}",
+    "nrf-connect.toolchain.path": "PATH",
+    "files.associations": {
+        "array": "c",
+        "string": "c",
+        "string_view": "c"
+    }
+}
