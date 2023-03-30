@@ -1,0 +1,4 @@
+*.o
+*/.exercism/*
+*.out
+
