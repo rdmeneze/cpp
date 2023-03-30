@@ -2,3 +2,4 @@
 */.exercism/*
 *.out
 *.user
+*/build
